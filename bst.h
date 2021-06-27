@@ -1,10 +1,4 @@
-//
-//  BST.h
-//  Project4_sorting
-//
-//  Created by Noah Schlickeisen on 4/22/21.
-//  CS 3358 Data Structures and Algorithms (Section 3358-256)
-//
+
 //
 // This file contains a binary search tree data structure
 // it includes methods that opeate on the binary search tree
