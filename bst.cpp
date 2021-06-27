@@ -1,10 +1,4 @@
-//
-//  BST.cpp
-//  Project4_sorting
-//
-//  Created by Noah Schlickeisen on 4/22/21.
-//  CS 3358 Data Structures and Algorithms (Section 3358-256)
-//
+
 // This driver file runs the test on BST.h using a
 // random array.
 //
