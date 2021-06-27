@@ -2,17 +2,6 @@
 // This driver file runs the test on BST.h using a
 // random array.
 //
-
-//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-// IMPOTANT MESSAGE: When compiling the program on Texas State school
-// servers type in command//
-//
-//                  g++ Assign2_Q2.cpp -std=c++11
-//                  ./a.out
-//
-// This will run the orject on the latest version of C++ to make the program
-// effectively.
-//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 #include <iostream>
 #include "bst.h"
 using namespace std;
